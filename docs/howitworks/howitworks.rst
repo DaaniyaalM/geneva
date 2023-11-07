@@ -40,7 +40,7 @@ Consider the following example of a simple Geneva strategy.
                                |
                  +-------------+------------+
                  |                          |
-    +------------v----------+               v    <-- dupilcate has no right child
+    +------------v----------+               v    <-- duplicate has no right child
               tamper
       {TCP:flags:replace:R}      <-- parameters to this action describe how 
     +------------+----------+        the packet should be tampered
